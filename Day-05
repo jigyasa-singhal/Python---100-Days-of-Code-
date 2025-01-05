@@ -1,0 +1,3 @@
+# this is a comment so it will not exexute by intepretor 
+print("Hello world ")
+print("hey i am a \'good boy\' hello " )
